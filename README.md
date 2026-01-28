@@ -14,7 +14,7 @@
 - 💡 Turning challenges into opportunities and creating meaningful impact.
 
 
-<h3 align="left">Languages I Used:</h3>
+<h3 align="left">Languages & Frameworks I’ve Used:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
