@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2U3YWkxb3JiczUweHgwaHJsYjBiOGl3aW54N3ZsN3lwcmNuNXdmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="MasterHead" width="90%" height="350px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2U3YWkxb3JiczUweHgwaHJsYjBiOGl3aW54N3ZsN3lwcmNuNXdmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="MasterHead" width="80%" height="300px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sharaf Ahmed</h1>
