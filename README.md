@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2U3YWkxb3JiczUweHgwaHJsYjBiOGl3aW54N3ZsN3lwcmNuNXdmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="MasterHead" width="80%" height="300px" />
+  <img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" alt="MasterHead" width="100%" height="400px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sharaf Ahmed</h1>
