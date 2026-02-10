@@ -73,9 +73,7 @@
   <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" alt="Microsoft App" width="50" height="50"/>
 </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharaf-ahmed-dev&show_icons=true&locale=en&layout=compact" alt="sharaf-ahmed-dev" /></p><br><br>
-<br><br><br><br>
-
+<br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/Sharaf-Ahmed-Dev" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png"alt="LinkedIn"width="94"height="94" /> </a>
