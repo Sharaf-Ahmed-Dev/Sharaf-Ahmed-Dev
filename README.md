@@ -15,74 +15,42 @@
 
 
 <h3 align="left">Languages & Frameworks I’ve Used:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  </a>
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" width="50" height="50"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="50" height="50"/>
-</a>
+<p align="left">
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/></a>
+  <a href="https://matplotlib.org/"><img src="https://img.icons8.com/color/48/matplotlib.png" width="45"/></a>
+  <a href="https://numpy.org/"><img src="https://img.icons8.com/color/48/numpy.png" width="45"/></a>
 </p>
 
-<h3 align="left">Tools & Technologies :</h3>
+<h3 align="left">Tools & Technologies:</h3>
+
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
-</a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/power-bi-2021.png" alt="Power BI" width="50" height="50"/>
-</a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/officel/80/java-eclipse.png" alt="Eclipse IDE" width="50" height="50"/>
-</a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="50" height="50"/>
-</a>
-<a href="https://www.microsoft.com/store/apps/9WZDNCRFJ3TJ" target="_blank" rel="noreferrer">
-  <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" alt="Microsoft App" width="50" height="50"/>
-</a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="45"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi-2021.png" width="45"/></a>
+  <a href="https://www.eclipse.org/"><img src="https://img.icons8.com/officel/80/java-eclipse.png" width="45"/></a>
+  <a href="https://colab.research.google.com/"><img src="https://img.icons8.com/color/48/google-colab.png" width="45"/></a>
 </p>
-<br>
+
 <h3 align="center">Connect with me</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/Sharaf-Ahmed-Dev" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png"alt="LinkedIn"width="94"height="94" /> </a>
-  <a href="https://github.com/Sharaf-Ahmed-Dev" target="_blank"> <img title="GitHub" src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" width="94"  height="94" /> </a>
+  <a href="https://www.linkedin.com/in/Sharaf-Ahmed-Dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+
+  <a href="https://github.com/Sharaf-Ahmed-Dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  </a>
 </p>
-
-
-
-
 
 
 
