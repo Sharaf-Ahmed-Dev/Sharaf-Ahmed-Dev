@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharaf-ahmed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sharaf-ahmed-dev" /> </p>
 
 <p>
-  <img src="https://github.com/Sharaf-Ahmed-Dev/Sharaf-Ahmed-Dev/blob/main/images/bio.png" width="300" height="250" />
+  <img src="https://github.com/Sharaf-Ahmed-Dev/Sharaf-Ahmed-Dev/blob/main/images/bio.png" width="400" height="250" />
 </p>
 
 <h3 align="left">Languages & Frameworks I’ve Used:</h3>
