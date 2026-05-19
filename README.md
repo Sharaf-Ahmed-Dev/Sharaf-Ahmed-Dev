@@ -21,6 +21,9 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/></a>
@@ -35,6 +38,7 @@
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="45"/></a>
+  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi-2021.png" width="45"/></a>
   <a href="https://www.eclipse.org/"><img src="https://img.icons8.com/officel/80/java-eclipse.png" width="45"/></a>
   <a href="https://colab.research.google.com/"><img src="https://img.icons8.com/color/48/google-colab.png" width="45"/></a>
@@ -44,11 +48,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Sharaf-Ahmed-Dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2" height="45" width="45"/>
   </a>
 
   <a href="https://github.com/Sharaf-Ahmed-Dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+    <img src="https://img.icons8.com/3d-fluency/50/github-logo.png" alt="github-logo" width="45" height="45"/>
   </a>
 </p>
 
