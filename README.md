@@ -8,11 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharaf-ahmed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sharaf-ahmed-dev" /> </p>
 
-- 💻 I’m currently learning **Full Stack Development**
-- 🚀 Curious, driven, and always looking to improve and contribute.
-- 🎯 Passionate about problem-solving and continuous growth.
-- 💡 Turning challenges into opportunities and creating meaningful impact.
-
+const softwareEngineeringStudent = {
+  name: "Sharaf Ahmed",
+  role: "Software Engineering Student",
+  stack: {
+    frontend: ["React.js"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"]
+  },
+  focus: "Full Stack Development",
+  goal: "Become a strong full stack developer"
+};
 
 <h3 align="left">Languages & Frameworks I’ve Used:</h3>
 
