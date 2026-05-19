@@ -48,11 +48,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Sharaf-Ahmed-Dev" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2" height="45" width="45"/>
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2" height="50" width="50"/>
   </a>
 
   <a href="https://github.com/Sharaf-Ahmed-Dev" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/github-logo.png" alt="github-logo" width="45" height="45"/>
+    <img src="https://img.icons8.com/3d-fluency/50/github-logo.png" alt="github-logo" width="50" height="50"/>
   </a>
 </p>
 
