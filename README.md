@@ -8,16 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharaf-ahmed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sharaf-ahmed-dev" /> </p>
 
-const softwareEngineeringStudent = {
-  name: "Sharaf Ahmed",
-  role: "Software Engineering Student",
-  stack: {
-    frontend: ["React.js"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"]
-  },
-  focus: "Full Stack Development",
-  goal: "Become a strong full stack developer"
+const softwareEngineeringStudent = {<br>
+  name: "Sharaf Ahmed",<br>
+  role: "Software Engineering Student",<br>
+  stack: {<br>
+    frontend: ["React.js"],<br>
+    backend: ["Node.js", "Express.js"],<br>
+    database: ["MongoDB"]<br>
+  },<br>
+  focus: "Full Stack Development",<br>
+  goal: "Become a strong full stack developer"<br>
 };
 
 <h3 align="left">Languages & Frameworks I’ve Used:</h3>
